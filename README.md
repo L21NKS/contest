@@ -131,3 +131,19 @@
 В любой непонятной ситуации результатом работы любой команды будет "error".
 
 # M3
+## A. Блокировка логина
+<img width="509" alt="image" src="https://github.com/user-attachments/assets/c12ead3d-c95f-4728-835a-a31fa790758e" />
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/a22dabe0-50d0-4d5c-abda-a1909b75c955" />
+
+## B. Фильтр Блума
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/59bb46dc-b79f-44d1-8369-0b5509b5bac3" />
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/c9fe5ccf-bc7f-445f-ad9b-9a728b642f1e" />
+
+## C. Приближенный рюкзак
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/5a4fcc45-6d76-4e92-ac89-c3083b156ca9" />
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/abfbd2ca-a1d3-4cfb-8d57-74beebb60888" />
+
+
+
+
+
