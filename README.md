@@ -1,4 +1,5 @@
 # Три модуля яндекс контеста
+![Logo](https://filearchive.cnews.ru/img/book/2021/10/24/yandexlogo2021russian.svg.png)
 # М1
 ## A. Бинарный поиск
 Ограничение времени	1 секунда
